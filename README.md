@@ -5,7 +5,7 @@ GitHub Instagram
 </div>
 About
 
-I am an aspiring data analyst with a background in Computer Science. I enjoy working with data to find patterns, solve problems, and turn raw information into clear, useful insights.
+I am an aspiring data analyst. I enjoy working with data to find patterns, solve problems, and turn raw information into clear, useful insights.
 
 I am building my analytics skills through structured learning and hands-on projects, and I document my progress here as I go.
 
