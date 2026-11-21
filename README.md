@@ -86,12 +86,12 @@ I believe in learning by doing, staying curious, and improving with every projec
 
 ## MY LEARNING ROADMAP
 
-- [ ] Excel for data analysis
-- [ ] SQL and database fundamentals
-- [ ] Python and Pandas
-- [ ] Statistics and analytical thinking
-- [ ] Power BI dashboards
-- [ ] Real-world dataset analysis
+- [\*] Excel for data analysis
+- [\*] SQL and database fundamentals
+- [\*] Python and Pandas
+- [\*] Statistics and analytical thinking
+- [\*] Power BI dashboards
+- [\*] Real-world dataset analysis
 - [ ] End-to-end portfolio projects
 
 ---
