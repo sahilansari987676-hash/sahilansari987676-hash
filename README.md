@@ -1,36 +1,77 @@
-# 👋 Hey, I'm Shahil Ansari
+ <!-- README.md -->
 
-### `Aspiring Data Analyst` · `Problem Solver` · `Lifelong Learner`
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Turning+Data+Into+Insights;Learning+Excel+%7C+SQL+%7C+Python;Building+My+Data+Analytics+Journey" alt="Typing SVG" />
-</p>
+# SHAHIL ANSARI
 
----
+### Aspiring Data Analyst
 
-## 🧑‍💻 About Me
+*Turning curiosity into insights, one dataset at a time.*
 
-I'm Shahil, an aspiring Data Analyst from Nepal 🇳🇵.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:263449&height=3" width="100%" />
 
-I'm on a journey to understand data, discover patterns, and turn raw information into meaningful insights.
+[![Instagram](https://img.shields.io/badge/Instagram-@shaaahilansari-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/shaaahilansari/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sahilansari987676-hash)
 
-Currently learning, experimenting, and building my skills one project at a time.
-
-- 📊 Exploring the world of Data Analytics
-- 🐍 Learning Python for data analysis
-- 🗄️ Practicing SQL and database management
-- 📈 Improving my Excel and visualization skills
-- 🎯 Working towards becoming a professional Data Analyst
+</div>
 
 ---
 
-## ⚡ Tech Stack & Tools
+## ABOUT ME
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+Hey! I'm Shahil, an aspiring data analyst with a background in Computer Science.
+
+I'm interested in understanding data, discovering patterns, and turning raw information into something meaningful. Currently, I'm building my foundation in data analytics through learning, practice, and hands-on projects.
+
+I believe the best way to learn is to build, experiment, make mistakes, and improve.
+
+## CURRENTLY LEARNING
+
+| Skill | Focus |
+|:---|:---|
+| **Excel** | Data cleaning, formulas, pivot tables |
+| **SQL** | Queries, filtering, joins, databases |
+| **Python** | Data manipulation and analysis |
+| **Statistics** | Understanding data and finding patterns |
+| **Visualization** | Communicating insights through charts |
+
+## MY TOOLKIT
+
+<p>
+  <img src="https://img.shields.io/badge/Excel-Learning-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-Learning-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Analytics-0A66C2?style=flat-square&
+## MY JOURNEY
+
+- [x] Starting my journey in data analytics
+- [ ] Strengthening my Excel skills
+- [ ] Learning SQL and database fundamentals
+- [ ] Exploring Python for data analysis
+- [ ] Working with real-world datasets
+- [ ] Building and publishing portfolio projects
+
+## WHAT I'M WORKING TOWARDS
+
+My goal is to become a skilled data analyst who can approach real-world problems with data, think critically, and communicate useful insights.
+
+I'm not here to collect badges. I'm here to build actual skills and projects.
+
+---
+
+<div align="center">
+
+### LET'S CONNECT
+
+Open to learning, collaboration, and connecting with people in tech and data.
+
+[Instagram](https://www.instagram.com/shaaahilansari/) · [GitHub](https://github.com/sahilansari987676-hash)
+
+<br />
+
+*Learning in public. Building with purpose.*
+
+</div>
