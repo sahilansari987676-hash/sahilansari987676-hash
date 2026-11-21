@@ -1,11 +1,11 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=140&section=header&text=Shahil%20Ansari&fontSize=40&fontColor=f8fafc&fontAlignY=45&desc=Aspiring%20Data%20Analyst%20%7C%&descSize=16&descColor=94a3b8&descAlignY=70" width="100%" alt="Shahil Ansari"/>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=140&section=header&text=Shahil%20Ansari&fontSize=40&fontColor=f8fafc&fontAlignY=45&desc=Aspiring%20Data%20Analyst%20%7C%20Computer%20Science%20Background&descSize=16&descColor=94a3b8&descAlignY=70" width="100%" alt="Shahil Ansari"/>
 
 GitHub Instagram
 
 </div>
 About
 
-I am an aspiring data analyst. I enjoy working with data to find patterns, solve problems, and turn raw information into clear, useful insights.
+I am an aspiring data analyst with a background in Computer Science. I enjoy working with data to find patterns, solve problems, and turn raw information into clear, useful insights.
 
 I am building my analytics skills through structured learning and hands-on projects, and I document my progress here as I go.
 
