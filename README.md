@@ -13,7 +13,7 @@
 
 ## ABOUT ME
 
-Hey! I'm Shahil, an aspiring data analyst with a background in Computer Science.
+Hey! I'm Shahil, an aspiring data analyst.
 
 I'm interested in exploring data, discovering patterns, solving problems, and turning raw information into meaningful insights.
 
